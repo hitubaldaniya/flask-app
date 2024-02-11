@@ -39,5 +39,12 @@
 - pip freeze > requirements.txt
 - create a Procfile which is gonna used by Heroku.
 
+### Create Heroku account and install Heroku CLI
+- run command: "Heroku" (to see if cli working properly)
+- run command: "heroku create app-name" (create a new app in Heroku)
+
+### App Url
+- https://flasksqlite-todo-b173f1a4fb85.herokuapp.com/
+
 ### Keep in mind
 - There is no expra features available like form validation, proper designing etc...
