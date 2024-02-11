@@ -46,5 +46,10 @@
 ### App Url
 - https://flasksqlite-todo-b173f1a4fb85.herokuapp.com/
 
+### APP View
+![List Page](https://raw.githubusercontent.com/hitubaldaniya/flask-app/main/static/img/todo-list.png)
+
+![Update Page](https://raw.githubusercontent.com/hitubaldaniya/flask-app/main/static/img/update-todo.png)
+
 ### Keep in mind
 - There is no expra features available like form validation, proper designing etc...
